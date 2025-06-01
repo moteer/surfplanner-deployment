@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/moteer/surf-planner.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nadia-z/surf-planner-frontend.git
